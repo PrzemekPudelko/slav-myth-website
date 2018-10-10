@@ -1,0 +1,80 @@
+
+.pics {
+   float: left; 
+   width:46%;
+   padding: 5px;
+ 
+}
+
+#div1 {
+    border: inset;
+}
+
+#div2 {
+    border: double;
+}
+
+a:hover {
+    background-color: #ffd700;
+}
+
+h3 {
+    border-bottom: double;
+    text-align: left;
+    font-family: Georgia, sans-serif;
+}
+
+h3:hover{
+    background-color: #87cefa;
+}
+
+.cursive {
+    font-family: cursive;
+    background-color: #cd5c5c;
+    color: #f0f8ff;
+}
+
+.pages h4 {
+    display: inline;
+    padding: 10px;
+    
+}
+
+p > span {
+    font-weight: bold;
+}
+
+
+#fp1 {
+    background-color: #f0f8ff;
+    color: #cd5c5c;
+}
+
+
+
+#smp1 {
+    background-color: #8b4513;
+    color: #8fbc8f;
+}
+
+.monsters {
+    width: 40%;
+}
+
+.fantasy {
+    font-family: fantasy;
+    background-color: #000000;
+    color: #ff0000
+}
+
+
+#wp1 {
+    background-color: #ff0000;
+    color: #000000;
+}
+
+.mono {
+    font-family: monospace;
+    background-color: #8fbc8f;
+    color: #8b4513;
+}
